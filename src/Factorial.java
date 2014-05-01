@@ -1,6 +1,7 @@
 import java.util.LinkedList;
 import java.util.LinkedList;
 
+//This is the factorial calcualtor
 public class Factorial {
 
 	LinkedList factorialList;
